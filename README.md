@@ -139,7 +139,7 @@ npm install
 
 Create a .env file in the client directory:
 
-VITE_API_BASE_URL=http://localhost:5000/api
+APP_URL = https://shopsmart-ai-kvg6.onrender.com/orders
 
 
 Run the frontend:
@@ -148,6 +148,8 @@ npm run dev
 
 
 👥 Team: MergeStrikes
+
+
 
 Vikas (23/SE/171)
 
