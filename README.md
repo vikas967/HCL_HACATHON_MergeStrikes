@@ -149,10 +149,10 @@ npm run dev
 
 👥 Team: MergeStrikes
 
-Vikas
+Vikas (23/SE/171)
 
-Shorya
+Shorya (23/SE/147)
 
-Ukesh Kumar Gautam
+Ukesh Kumar Gautam (23/SE/164)
 
 Built for the ShopSmart AI Hackathon challenge.
